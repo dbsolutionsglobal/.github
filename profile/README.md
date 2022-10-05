@@ -1,32 +1,12 @@
-<img src="https://user-images.githubusercontent.com/47449129/193869736-9ebbebf9-1706-4dfe-9d2c-33e05ceb1773.png" width="200px" align="right">
+<img alt="Black d&b solutions Logo" src="https://user-images.githubusercontent.com/47449129/194034797-4864205b-3b01-43a4-aa41-5345334b66bf.png#gh-light-mode-only" align="right" width="150px" />
+<img alt="White d&b solutions Logo" src="https://user-images.githubusercontent.com/47449129/194034850-79850fe4-1dcb-4d81-bfdf-f01e8c323af3.png#gh-dark-mode-only" align="right" width="150px" />
 
-# SFL Group, a d&b solutions company 
+# d&b solutions
 
+Established with the acquisition of leading UK companies SFL and White Light, d&b solutions is a premium service provider for corporate events, theatre, houses of worship, broadcast, live music, themed attractions, education, retail and leisure. d&b solutions technical expertise covers audio, video, lighting and the SmartStage® extended reality system. Our services offer consultation, planning, installation, content production, system sales, equipment rental and maintenance. Please follow the below links to further explore SFL, White Light and SmartStage®.
 
-SFL are a leading production supplier and AV installations partner both in the UK and internationally.
+| SFL Group | White Light | Smart Stage |
+|:---------:|:-----------:|:-------------:|
+| <img alt="SFL Group" src="https://user-images.githubusercontent.com/47449129/194035585-9fc7fdd8-df52-4c5f-b3b0-4680f644611a.png" width="250px" /> | <img alt="White Light" src="https://user-images.githubusercontent.com/47449129/194035668-ac77ebb5-9043-49cd-82ca-e349c05d124b.png" width="250px" /> | <img alt="Smart Stage" src="https://user-images.githubusercontent.com/47449129/194035695-01c91d7c-feaa-4756-ac6d-192e30326b52.png" width="250px" /> |
+| <h3><a href="https://sflgroup.co.uk">sflgroup.co.uk</a></h3><br /> <a href="https://www.linkedin.com/company/sflgroup"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="50px" /> </a> <a href="https://twitter.com/SFLGroup"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="50px" /> </a> <a href="https://www.facebook.com/sflgroup"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" width="50px" /> </a> <a href="https://www.youtube.com/channel/UCjBsFBg8DyMZWtieo94EgmA"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" width="50px" /> </a> | <h3><a href="https://www.whitelight.ltd.uk/">whitelight.ltd.uk</a></h3><br />
 
-We create environments to help people to communicate. We do that by using audio, visual, lighting, scenic and print elements of production technology. We deliver across all industries, throughout Europe. We deliver to scale from smaller boutique events to ones with many thousands in attendance.
-
-SFL’s business ethos places huge value on relationship, with a strong focus on delivering long term added value to all of our customers. With our proven history you can have complete confidence in the level of continued support going into the future.
-
-We believe that: “Technology is necessary but not sufficient”
-
-Whatever size of event or installation you are planning, you need to know that you have the very best support behind you.
-
-### <a href="https://sflgroup.co.uk">sflgroup.co.uk</a>
-
-<a href="https://www.linkedin.com/company/sflgroup">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="50px" />
-</a>
-
-<a href="https://twitter.com/SFLGroup">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="50px" />
-</a>
-
-<a href="https://www.facebook.com/sflgroup">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" width="50px" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCjBsFBg8DyMZWtieo94EgmA">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" width="50px" />
-</a>
