@@ -1,7 +1,7 @@
 <img alt="Black d&b solutions Logo" src="https://user-images.githubusercontent.com/47449129/194034797-4864205b-3b01-43a4-aa41-5345334b66bf.png#gh-light-mode-only" align="right" width="150px" />
 <img alt="White d&b solutions Logo" src="https://user-images.githubusercontent.com/47449129/194034850-79850fe4-1dcb-4d81-bfdf-f01e8c323af3.png#gh-dark-mode-only" align="right" width="150px" />
 
-# d&b Solutions
+# d&b solutions
 
 Established with the acquisition of leading UK companies SFL and White Light, d&b solutions is a premium service provider for corporate events, theatre, houses of worship, broadcast, live music, themed attractions, education, retail and leisure. d&b solutions technical expertise covers audio, video, lighting and the SmartStage® extended reality system. Our services offer consultation, planning, installation, content production, system sales, equipment rental and maintenance. Please follow the below links to further explore SFL, White Light and SmartStage®.
 
