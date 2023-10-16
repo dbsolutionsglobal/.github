@@ -1,5 +1,5 @@
-<img alt="Black d&b solutions Logo" src="https://user-images.githubusercontent.com/47449129/194034797-4864205b-3b01-43a4-aa41-5345334b66bf.png#gh-light-mode-only" align="right" width="150px" />
-<img alt="White d&b solutions Logo" src="https://user-images.githubusercontent.com/47449129/194034850-79850fe4-1dcb-4d81-bfdf-f01e8c323af3.png#gh-dark-mode-only" align="right" width="150px" />
+<img alt="Black d&b solutions Logo" src="https://github.com/dbsolutionsglobal/.github/assets/54334295/263ea5a5-ee72-4306-9f63-dde933878a59.png#gh-light-mode-only" align="right" width="150px" />
+<img alt="White d&b solutions Logo" src="https://github.com/dbsolutionsglobal/.github/assets/54334295/58ba5047-f089-47e7-9178-485469a150d1.png#gh-dark-mode-only" align="right" width="150px" />
 
 # d&b solutions
 
